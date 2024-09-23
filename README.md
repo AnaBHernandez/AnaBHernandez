@@ -4,7 +4,7 @@ APRENDIENDO A PROGRAMAR :computer::dizzy_face:
 ## CON [FACTORIA F5](https://factoriaf5.org/tag/asturias/ "FACTORIA F5")
 
 
-## PUBLICACIÓN LINKEDIN [FACTORIA F5](https://factoriaf5.org/tag/asturias/)
+PUBLICACIÓN LINKEDIN [BOOTCAMP DE BACKEND EN GIJÓN](https://www.linkedin.com/posts/factor%C3%ADaf5_carrusel-de-im%C3%A1genes-activity-7242123819140759554--E83?utm_source=share&utm_medium=member_desktop)
 
 
 <h3 align="left">Contacta conmigo:</h3>
