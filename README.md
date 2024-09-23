@@ -1,4 +1,4 @@
-<h1>Hola 👋, me llano Ana Belén</h1>
+<h1>Hola 👋, me llamo Ana Belén</h1>
 APRENDIENDO A PROGRAMAR :computer::dizzy_face:
 
 ## CON [FACTORIA F5](https://factoriaf5.org/tag/asturias/ "FACTORIA F5")
