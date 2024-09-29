@@ -2,9 +2,11 @@
 ![Encabezado](https://github.com/user-attachments/assets/0a3478d4-ab24-4505-809f-5606b3c487b5)
 
 <h1>Hola 👋, me llamo Ana Belén</h1>
-APRENDIENDO A PROGRAMAR :computer::dizzy_face:
+Apasionada de la tecnología<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-## CON [FACTORIA F5](https://factoriaf5.org/tag/asturias/ "FACTORIA F5")
+APRENDIENDO A PROGRAMAR :computer::dizzy_face: CON [FACTORIA F5](https://factoriaf5.org/tag/asturias/ "FACTORIA F5")
+
+
 
 
 PUBLICACIÓN LINKEDIN [BOOTCAMP DE BACKEND EN GIJÓN](https://www.linkedin.com/posts/factor%C3%ADaf5_carrusel-de-im%C3%A1genes-activity-7242123819140759554--E83?utm_source=share&utm_medium=member_desktop)
@@ -14,10 +16,13 @@ PUBLICACIÓN LINKEDIN [BOOTCAMP DE BACKEND EN GIJÓN](https://www.linkedin.com/p
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anabel%c3%a9nhern%c3%a1ndez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= height="30" width="40" /></a>
-</p>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabel%c3%a9nhern%c3%a1ndez/)
+
+<h3 align="left">Lenguajes y herramientas:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+
 
 
 
