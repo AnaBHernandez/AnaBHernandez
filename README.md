@@ -1,3 +1,6 @@
+
+![Encabezado](https://github.com/user-attachments/assets/0a3478d4-ab24-4505-809f-5606b3c487b5)
+
 <h1>Hola 👋, me llamo Ana Belén</h1>
 APRENDIENDO A PROGRAMAR :computer::dizzy_face:
 
