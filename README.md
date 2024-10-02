@@ -1,8 +1,4 @@
-
-![Encabezado Ana Belén Factoria F5](https://github.com/user-attachments/assets/60550832-27e1-4c95-aea3-7b761b1da071)![Uploading Encabezado Ana Belén Factoria F5.png…]()
-
-
-
+<img width="438" alt="Encabezado Ana Belén Factoria F5" src="https://github.com/user-attachments/assets/fefd9632-3990-4697-a2be-0b74109d7a9c">
 <h1>Hola 👋, me llamo Ana Belén</h1>![Encabezado Ana Belén Factoria F5]
 Apasionada de la tecnología<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
