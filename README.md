@@ -10,7 +10,7 @@ APRENDIENDO A PROGRAMAR :computer::dizzy_face: CON [FACTORIA F5](https://factori
 PUBLICACIÓN LINKEDIN [BOOTCAMP DE BACKEND EN GIJÓN](https://www.linkedin.com/posts/factor%C3%ADaf5_carrusel-de-im%C3%A1genes-activity-7242123819140759554--E83?utm_source=share&utm_medium=member_desktop)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaBHernandez&show_icons=true&theme=shadow_red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=dark)
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
