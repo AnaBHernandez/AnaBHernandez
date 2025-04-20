@@ -53,7 +53,7 @@ La aplicación digitaliza esta metodología original, permitiendo a los usuarios
 
 ## 👩‍💼 Experiencia Profesional
 
-### Desarrolladora Backend (2023 - Presente)
+### Desarrolladora Backend (2024 - Presente)
 - Desarrollo del proyecto Orden con MIMO usando Java 21 y Spring Boot
 - Implementación de APIs RESTful y bases de datos relacionales
 - Arquitectura MVC y diseño de interfaces con Thymeleaf
