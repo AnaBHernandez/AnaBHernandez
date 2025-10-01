@@ -4,7 +4,7 @@ Me enfoco en el desarrollo de APIs escalables con **Spring Boot** y el diseño d
 
 ---
 
-## 🚀 Proyectos Destacados (Mis PINES - ¡Míralos arriba!)
+## 🚀 Proyectos Destacados (Mis PINES - ¡Míralos abajo!)
 
 Mis 6 proyectos anclados demuestran: **Innovación**, **Arquitectura de Microservicios**, **Seguridad** e **Integración Cloud (AWS/NoSQL)**. Son mi trabajo más complejo y reciente.
 
