@@ -17,14 +17,16 @@ Mi trabajo combina **más de 1600 horas de formación** con una mentalidad de **
 * [orden-con-mimo-backend](https://github.com/AnaBHernandez/orden-con-mimo-backend)
   API REST que digitaliza el método de organización personal MIMO. Implementado con principios **SOLID** y un **70% de cobertura en tests**.
 
+* [orden-con-mimo-frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend)
+  Frontend para la aplicación Orden con MIMO, renderizado con Thymeleaf.
+
 * [ACE-Code-Backend](https://github.com/AnaBHernandez/ACE-Code-Backend)
   Plataforma educativa con API REST en Spring Boot y gestión de recursos educativos.
 
 * [spring-boot-aws-api](https://github.com/AnaBHernandez/spring-boot-aws-api)
   API REST con Spring Boot y AWS DynamoDB lista para despliegue en AWS.
 
-* [orden-con-mimo-frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend)
-  Frontend para la aplicación Orden con MIMO, renderizado con Thymeleaf.
+
 
 ---
 
