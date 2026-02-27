@@ -51,7 +51,7 @@ Mi trabajo combina **más de 1600 horas de formación** con una mentalidad de **
 ## 📫 Contacto
 
 * anahernandezfit@gmail.com
-* [LinkedIn][(https://www.linkedin.com/in/anabelenhernandez](https://www.linkedin.com/in/anabelénhernández/))
+* [Linkedin](https://www.linkedin.com/in/anabelénhernández/)
 
 ---
 
