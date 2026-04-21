@@ -1,18 +1,31 @@
 # ¡Hola! Soy Ana, Desarrolladora Backend (Java 21/Spring Boot) | Especialista en Arquitectura de Datos Cloud (GCP/Terraform) ☕️
 
+Aporto un enfoque diferencial combinando **tecnología y visión de negocio**, lo que me permite entender problemas reales y transformarlos en soluciones técnicas eficientes.
+
 Me especializo en el desarrollo de **APIs robustas y escalables** con Spring Boot, Arquitectura de Datos (**ETL/Airflow**) y despliegue de infraestructura con **Terraform**.
 
-Mi trabajo combina **más de 1600 horas de formación** con una mentalidad de **Resiliencia Operativa** y una búsqueda constante de la **automatización** y la **calidad del código**.
+Mi trabajo se centra en la **automatización, la calidad del código y la construcción de soluciones escalables en entornos cloud**.
 
 ---
 
 ## 🚀 Proyectos Destacados (Cloud, Arquitectura y Automatización)
 
 * [trafico_urbano_etl](https://github.com/AnaBHernandez/trafico_urbano_etl)
-  **Sistema ETL (Data Engineering) con Arquitectura Bronze/Silver/Golden, Orquestación con Apache Airflow y automatización de Infraestructura (IaC) con Terraform.**
+  Sistema de ingeniería de datos diseñado para procesar y estructurar información urbana mediante arquitectura Bronze/Silver/Gold.
+
+  🔹 Orquestación con Apache Airflow  
+  🔹 Infraestructura como código con Terraform  
+  🔹 Enfoque en automatización y escalabilidad  
+
+  👉 Objetivo: transformar datos en información útil para la toma de decisiones.
 
 * [DespensaInteligente](https://github.com/AnaBHernandez/DespensaInteligente)
-  **API REST (Java 21) para prevenir el desperdicio de alimentos.** Integración con **OCR (Tesseract)** y arquitectura escalable con Spring Boot.
+  API REST en Java diseñada para reducir el desperdicio alimentario mediante digitalización de procesos.
+
+  🔹 Integración OCR (Tesseract)  
+  🔹 Arquitectura escalable con Spring Boot  
+
+  👉 Enfoque: aplicar tecnología a un problema real con impacto en usuario.
 
 * [orden-con-mimo-backend](https://github.com/AnaBHernandez/orden-con-mimo-backend)
   API REST que digitaliza el método de organización personal MIMO. Implementado con principios **SOLID** y un **70% de cobertura en tests**.
@@ -29,6 +42,12 @@ Mi trabajo combina **más de 1600 horas de formación** con una mentalidad de **
 
 
 ---
+
+## 🎯 Enfoque
+
+No solo desarrollo aplicaciones.
+
+Trabajo desde la comprensión del problema, conectando necesidades de negocio con soluciones tecnológicas que aporten valor real.
 
 ## 📚 Fundamentos Sólidos (Java & Testing)
 
@@ -55,4 +74,4 @@ Mi trabajo combina **más de 1600 horas de formación** con una mentalidad de **
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+Si te interesa un perfil técnico con visión de negocio y orientación a impacto, estaré encantada de conectar.
