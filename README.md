@@ -16,23 +16,23 @@ No uso templates — resuelvo problemas reales en producción.
 
 ## 📊 Proyectos destacados
 
-**LastAngular** | GitHub Actions + Angular 21 + Vercel
+**[LastAngular](https://github.com/AnaBHernandez/lastangular-portfolio)** | GitHub Actions + Angular 21 + Vercel
 - Pipeline CI/CD desde cero (no templates)
 - 13 ejecuciones, 9 fallos resueltos y documentados
 - Debugging de bash, conflictos pnpm, incompatibilidad Node 24
 - 200+ commits, 45 issues, 34+ PRs
 
-**Red3Conecta** | Scrum Master + GitHub Actions + Astro
+**[Red3Conecta](https://github.com/AnaBHernandez/red3conecta-landing)** | Scrum Master + GitHub Actions + Astro
 - Landing page para cliente real
 - GitHub Projects como fuente única de verdad
 - Pipeline CI/CD con validación automática y WCAG AA
 - Política de ramas, releases automáticas
 
-**trafico_urbano_etl** | Apache Airflow + GCP + Python
+**[trafico_urbano_etl](https://github.com/AnaBHernandez/trafico_urbano_etl)** | Apache Airflow + GCP + Python
 - Sistema ETL de análisis de tráfico urbano
 - Arquitectura Bronze/Silver/Gold en BigQuery
 
-**Cloud and Delivery** | Terraform + GCP Composer + BigQuery
+**[Cloud and Delivery](https://github.com/AnaBHernandez)** | Terraform + GCP Composer + BigQuery
 - Infraestructura como código (Cloud Storage, Airflow)
 - Pipelines ETL: reducción 27% de tareas manuales
 
@@ -65,3 +65,5 @@ No uso templates — resuelvo problemas reales en producción.
 - **Teléfono:** +34 618-475-782
 
 ---
+
+**"No es lo que sabes, es lo que demuestras."**
