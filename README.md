@@ -32,10 +32,6 @@ No uso templates — resuelvo problemas reales en producción.
 - Sistema ETL de análisis de tráfico urbano
 - Arquitectura Bronze/Silver/Gold en BigQuery
 
-**[Cloud and Delivery](https://github.com/AnaBHernandez)** | Terraform + GCP Composer + BigQuery
-- Infraestructura como código (Cloud Storage, Airflow)
-- Pipelines ETL: reducción 27% de tareas manuales
-
 ## 💡 Qué aporto
 
 ✅ Pipelines CI/CD diseñadas desde cero (no templates)
