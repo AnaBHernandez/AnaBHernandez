@@ -32,6 +32,12 @@ No uso templates — resuelvo problemas reales en producción.
 - Sistema ETL de análisis de tráfico urbano
 - Arquitectura Bronze/Silver/Gold en BigQuery
 
+**Cloud and Delivery** | Experiencia en Producción (Julio - Septiembre 2025)
+- Infraestructura como código con Terraform (Cloud Storage, Cloud Composer)
+- Pipelines ETL en BigQuery: reducción 27% de tareas manuales
+- Debugging de arquitectura en producción (legacy + sistemas modernos)
+- Automatización de procesos con Apache Airflow
+
 ## 💡 Qué aporto
 
 ✅ Pipelines CI/CD diseñadas desde cero (no templates)
@@ -57,7 +63,7 @@ No uso templates — resuelvo problemas reales en producción.
 ## 📫 Conecta conmigo
 
 - **Email:** anahernandezfit@gmail.com
-- **LinkedIn:** [Ana Belén Hernández]([https://linkedin.com/in/anabelénhernández](https://www.linkedin.com/in/anabelenhernandezlopez/)
+- **LinkedIn:** [Ana Belén Hernández](https://www.linkedin.com/in/anabelenhernandezlopez/)
 - **Teléfono:** +34 618-475-782
 
 ---
