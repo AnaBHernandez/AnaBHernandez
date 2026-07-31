@@ -57,7 +57,7 @@ No uso templates — resuelvo problemas reales en producción.
 ## 📫 Conecta conmigo
 
 - **Email:** anahernandezfit@gmail.com
-- **LinkedIn:** [Ana Belén Hernández](https://linkedin.com/in/anabelénhernández)
+- **LinkedIn:** [Ana Belén Hernández]([https://linkedin.com/in/anabelénhernández](https://www.linkedin.com/in/anabelenhernandezlopez/)
 - **Teléfono:** +34 618-475-782
 
 ---
