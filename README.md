@@ -1,64 +1,60 @@
 # 👋 Hola, soy Ana Belén
 
-**GitHub DevOps Engineer | CI/CD Specialist | Terraform | GCP**
+**Cloud & DevOps Engineer | Backend Developer (Java / Spring Boot) | CI/CD & Terraform**
 
-Diseño e implemento pipelines CI/CD desde cero en GitHub Actions. 
+Diseño e implemento arquitecturas robustas, pipelines CI/CD desde cero en GitHub Actions y lógica backend escalable.  
 No uso templates — resuelvo problemas reales en producción.
 
 ## 🚀 Sobre mí
 
-- 💼 Data Engineer & Cloud Developer @ Cloud and Delivery (GCP en producción)
-- 🔧 **Especialista en GitHub Actions:** 13 pipelines, 9 bugs debugueados y documentados
+- 💼 **Cloud & Backend Developer @ Cloud and Delivery** (GCP en producción y automatización)
+- ☕ **Backend:** Java 21, Spring Boot 3, Spring Security, JPA / Hibernate, APIs REST
+- 🔧 **Especialista en CI/CD:** Pipelines en GitHub Actions, debugging profundo y automatización
 - 🏗️ **Infrastructure as Code:** Terraform para GCP (Cloud Storage, Cloud Composer)
-- 📊 **Arquitectura de datos:** BigQuery, Cloud Composer (Apache Airflow)
-- 🐧 **DevOps:** Linux, Docker, GitHub Actions, CI/CD
+- 🐧 **DevOps & Sistemas:** Linux, Docker, Bash, systemd
 - 📍 Gijón, Asturias | 🌍 Remoto prioritario
 
 ## 📊 Proyectos destacados
 
-**[LastAngular](https://github.com/AnaBHernandez/lastangular-portfolio)** | GitHub Actions + Angular 21 + Vercel
-- Pipeline CI/CD desde cero (no templates)
-- 13 ejecuciones, 9 fallos resueltos y documentados
-- Debugging de bash, conflictos pnpm, incompatibilidad Node 24
-- 200+ commits, 45 issues, 34+ PRs
-
-**[Red3Conecta](https://github.com/AnaBHernandez/red3conecta-landing)** | Scrum Master + GitHub Actions + Astro
-- Landing page para cliente real
-- GitHub Projects como fuente única de verdad
-- Pipeline CI/CD con validación automática y WCAG AA
-- Política de ramas, releases automáticas
+**[Orden con MIMO](https://github.com/AnaBHernandez/orden-con-mimo-backend)** | Java 21 + Spring Boot 3 + Spring Data JPA + Arquitectura Full-Stack
+- Desarrollo full-stack de aplicación de organización personal y profesional.
+- API REST robusta en Spring Boot 3, gestión de persistencia con JPA y base de datos H2/MySQL.
+- Comunicación HTTP optimizada, configuración de CORS y separación limpia de capas (Controller, Service, Repository).
 
 **[trafico_urbano_etl](https://github.com/AnaBHernandez/trafico_urbano_etl)** | Apache Airflow + GCP + Python
-- Sistema ETL de análisis de tráfico urbano
-- Arquitectura Bronze/Silver/Gold en BigQuery
+- Sistema ETL de análisis de tráfico urbano.
+- Arquitectura Bronze/Silver/Gold en BigQuery.
 
-**Cloud and Delivery** | Experiencia en Producción (Julio - Septiembre 2025)
-- Infraestructura como código con Terraform (Cloud Storage, Cloud Composer)
-- Pipelines ETL en BigQuery: reducción 27% de tareas manuales
-- Debugging de arquitectura en producción (legacy + sistemas modernos)
-- Automatización de procesos con Apache Airflow
+**[LastAngular](https://github.com/AnaBHernandez/lastangular-portfolio)** | GitHub Actions + Angular 21 + Vercel
+- Pipeline CI/CD desde cero (no templates).
+- 13 ejecuciones, 9 fallos resueltos y documentados.
+- Debugging de bash, conflictos pnpm, incompatibilidad Node 24.
+
+**Cloud and Delivery** | Experiencia Profesional (Julio - Septiembre 2025)
+- Infraestructura como código con Terraform (Cloud Storage, Cloud Composer).
+- Pipelines ETL en BigQuery: reducción del 27% de tareas manuales.
+- Debugging de arquitectura en producción y automatización con Apache Airflow.
 
 ## 💡 Qué aporto
 
-✅ Pipelines CI/CD diseñadas desde cero (no templates)
-✅ Debugging profundo de fallos en GitHub Actions
-✅ Infrastructure as Code con Terraform
-✅ Gestión de equipos bajo presión (SCRUM, GitHub Projects)
-✅ 15+ años de experiencia en entornos críticos
+✅ Desarrollo backend sólido en Java y Spring Boot (APIs REST, seguridad y persistencia)  
+✅ Pipelines CI/CD diseñadas desde cero y debugging avanzado en GitHub Actions  
+✅ Infrastructure as Code con Terraform y despliegues en GCP  
+✅ Gestión de equipos bajo presión (SCRUM, GitHub Projects)  
+✅ 15+ años de experiencia global en entornos críticos de alta responsabilidad
 
 ## 🛠 Stack
 
 | Categoría | Tecnologías |
 |-----------|------------|
+| **Backend** | **Java 21 • Spring Boot 3 • Spring Security • JWT • JUnit 5 • Mockito • TDD** |
 | **CI/CD** | GitHub Actions • GitHub Projects • GitHub Workflows |
 | **Cloud** | GCP (BigQuery, Cloud Composer, Cloud Storage) |
 | **IaC** | Terraform |
 | **Contenedores** | Docker |
-| **Backend** | Java 21 • Spring Boot 3 • Spring Security • JWT |
-| **Frontend** | Angular 21 • TypeScript • HTML5 • CSS3 |
-| **Bases de datos** | PostgreSQL • MySQL • DynamoDB |
+| **Frontend** | Angular 21 • TypeScript • Thymeleaf • HTML5 • CSS3 |
+| **Bases de datos** | PostgreSQL • MySQL • H2 |
 | **DevOps** | Linux (bash, systemd) • Maven • Apache Airflow |
-| **Testing** | JUnit 5 • Mockito • TDD |
 
 ## 📫 Conecta conmigo
 
