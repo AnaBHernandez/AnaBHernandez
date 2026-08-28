@@ -1,73 +1,76 @@
-# 👋 Hola, soy Ana Belén
+# 👋 Hola, soy Ana Belén Hernández
 
-**Cloud & DevOps Engineer | Full-Stack & Backend Developer | CI/CD & Terraform**
+**Backend Developer (Java 21 / Spring Boot 3) | Cloud & DevOps Engineer (GCP / Terraform)**
 
-Diseño e implemento arquitecturas robustas, pipelines CI/CD desde cero en GitHub Actions y desarrollo aplicaciones full-stack escalables.  
-No uso templates — resuelvo problemas reales en producción.
-
-## 🚀 Sobre mí
-
-- 💼 **Cloud & Software Developer @ Cloud and Delivery** (GCP en producción y automatización)
-- ☕ **Backend:** Java 21, Spring Boot 3, Spring Security, JPA / Hibernate, APIs REST
-- 🌐 **Frontend & Web:** Thymeleaf, JavaScript, HTML5, CSS3, Vercel
-- 🔧 **Especialista en CI/CD:** Pipelines en GitHub Actions, debugging profundo y automatización
-- 🏗️ **Infrastructure as Code:** Terraform para GCP (Cloud Storage, Cloud Composer)
-- 🐧 **DevOps & Sistemas:** Linux, Docker, Bash, systemd
-- 📍 Gijón, Asturias | 🌍 Remoto prioritario
-
-## 📊 Proyectos destacados
-
-**[Orden con MIMO - Backend](https://github.com/AnaBHernandez/orden-con-mimo-backend)** | Java 21 + Spring Boot 3 + Spring Data JPA  
-📖 *Consulta la [Wiki del Backend](https://github.com/AnaBHernandez/orden-con-mimo-backend/wiki) con la documentación técnica.*
-- Desarrollo del backend para la aplicación full-stack de organización personal y profesional.
-- API REST robusta, gestión de persistencia con JPA y base de datos H2/MySQL.
-
-**[Orden con MIMO - Frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend)** | Spring Boot + Thymeleaf + JavaScript + CORS  
-📖 *Consulta la [Wiki del Frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend/wiki) con la documentación técnica.*
-- Desarrollo de la interfaz web cliente conectada al backend mediante RestTemplate.
-- Gestión de vistas con Thymeleaf, comunicación HTTP optimizada y consumo de servicios REST.
-
-**[trafico_urbano_etl](https://github.com/AnaBHernandez/trafico_urbano_etl)** | Apache Airflow + GCP + Python
-- Sistema ETL de análisis de tráfico urbano.
-- Arquitectura Bronze/Silver/Gold en BigQuery.
-
-**[LastAngular](https://github.com/AnaBHernandez/lastangular-portfolio)** | GitHub Actions + Angular 21 + Vercel
-- Pipeline CI/CD desde cero (no templates).
-- 13 ejecuciones, 9 fallos resueltos y documentados.
-- Debugging de bash, conflictos pnpm, incompatibilidad Node 24.
-
-**Cloud and Delivery** | Experiencia Profesional (Julio - Septiembre 2025)
-- Infraestructura como código con Terraform (Cloud Storage, Cloud Composer).
-- Pipelines ETL en BigQuery: reducción del 27% de tareas manuales.
-- Debugging de arquitectura en producción y automatización con Apache Airflow.
-
-## 💡 Qué aporto
-
-✅ Desarrollo full-stack (Java/Spring Boot en backend + frontend web integrado)  
-✅ Pipelines CI/CD diseñadas desde cero y debugging avanzado en GitHub Actions  
-✅ Infrastructure as Code con Terraform y despliegues en GCP  
-✅ Gestión de equipos bajo presión (SCRUM, GitHub Projects)  
-✅ 15+ años de experiencia global en entornos críticos de alta responsabilidad
-
-## 🛠 Stack
-
-| Categoría | Tecnologías |
-|-----------|------------|
-| **Backend** | **Java 21 • Spring Boot 3 • Spring Security • JWT • JUnit 5 • Mockito • TDD** |
-| **Frontend** | Thymeleaf • JavaScript • TypeScript • HTML5 • CSS3 |
-| **CI/CD** | GitHub Actions • GitHub Projects • GitHub Workflows |
-| **Cloud** | GCP (BigQuery, Cloud Composer, Cloud Storage) |
-| **IaC** | Terraform |
-| **Contenedores** | Docker |
-| **Bases de datos** | PostgreSQL • MySQL • H2 |
-| **DevOps** | Linux (bash, systemd) • Maven • Apache Airflow |
-
-## 📫 Conecta conmigo
-
-- **Email:** anahernandezfit@gmail.com
-- **LinkedIn:** [Ana Belén Hernández](https://www.linkedin.com/in/anabelenhernandezlopez/)
-- **Teléfono:** +34 618-475-782
+Diseño e implemento arquitecturas backend robustas, APIs REST desacopladas, pipelines CI/CD desde cero en GitHub Actions e infraestructura reproducible con Terraform.  
+No uso plantillas: analizo el dominio, modelo los datos y resuelvo problemas reales en producción.
 
 ---
 
-**"No es lo que sabes, es lo que demuestras."**
+## 🚀 Sobre mí
+
+- ☕ **Backend:** Java 21, Spring Boot 3, Spring Data JPA / Hibernate, Spring Security, APIs REST, JWT, Arquitectura Modular.
+- 💼 **Experiencia Cloud en CANDELIVERY:** GCP en producción (Cloud Composer / Apache Airflow, BigQuery, Cloud Storage).
+- 🏗️ **Infrastructure as Code (IaC):** Terraform para aprovisionamiento reproducible de infraestructura cloud.
+- 🔧 **CI/CD & Automatización:** Pipelines avanzados en GitHub Actions (validación, secrets dinámicos, deploys automatizados).
+- 🐧 **Sistemas & Contenedores:** Linux (Ubuntu), Docker, Bash scripting, systemd.
+- 🌐 **Frontend Integrado:** Thymeleaf (SSR), JavaScript, TypeScript, Angular.
+- 📍 Gijón, Asturias | 🌍 Remoto / Híbrido
+
+---
+
+## 📊 Proyectos destacados
+
+### [🏰 Orden con MIMO - Backend](https://github.com/AnaBHernandez/orden-con-mimo-backend)
+*Java 21 • Spring Boot 3.4.5 • Spring Data JPA • Hibernate • Spring Security • H2/MySQL*  
+📖 *[Consultar Wiki del Backend](https://github.com/AnaBHernandez/orden-con-mimo-backend/wiki)*
+- Desarrollo de API REST desacoplada para gestión de organización personal basada en metodología MIMO.
+- Modelo relacional estructurado (`Usuario`, `Espacio`, `Tarea`) con persistencia JPA, endpoints REST tipados y control de CORS.
+- Perfil `dev` con H2 en memoria y soporte multi-entorno para MySQL/PostgreSQL.
+
+### [🌐 Orden con MIMO - Frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend)
+*Spring Boot 3.4.4 • Thymeleaf (SSR) • JavaScript • RestTemplate*  
+📖 *[Consultar Wiki del Frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend/wiki)*
+- Interfaz web cliente Server-Side Rendering con Thymeleaf consumiendo la API REST del backend (`http://localhost:8082/api`).
+- Comunicación HTTP estructurada mediante `RestTemplate` en servicios dedicados (`TareaApiService`, `EspacioApiService`) y cliente `fetch()`.
+
+### [📊 trafico_urbano_etl](https://github.com/AnaBHernandez/trafico_urbano_etl)
+*Apache Airflow • GCP • BigQuery • Terraform • Docker • Python*
+- Canalización ETL de análisis de tráfico urbano implementando arquitectura Medallion (Bronze / Silver / Gold).
+- Entorno de réplica local *zero-cost* con Docker y orquestación con Apache Airflow automatizada mediante Terraform.
+
+### [📱 LastAngular](https://github.com/AnaBHernandez/lastangular-portfolio)
+*Angular 21 • GitHub Actions • Vercel CLI • pnpm*
+- Pipeline CI/CD diseñado desde cero sin templates prefabricados: gestión dinámica de secretos, pinning de dependencias (`pnpm`) y resolución de compatibilidad en despliegues.
+
+---
+
+## 💼 Experiencia Profesional & Trayectoria
+
+- **Cloud & Software Developer @ CANDELIVERY SL** *(Julio - Septiembre 2025)*
+  - Infraestructura como código con Terraform (Cloud Storage, Cloud Composer).
+  - Modelado y optimización de pipelines ETL en BigQuery reduciendo un 27% las tareas manuales de gestión.
+  - Réplica y depuración de entornos de integración mediante contenedores Docker.
+- **AMAPAD (Organismo Público)** *(2015 - 2024)*
+  - 9+ años de responsabilidad operativa, resolución de conflictos bajo presión y apego a protocolos críticos, aportando calma técnica y rigor en la gestión de incidencias en producción.
+
+---
+
+## 🛠️ Stack Técnico
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend** | Java 21, Spring Boot 3, Spring Data JPA, Hibernate, Spring Security, RESTful APIs, JWT, JUnit 5, Mockito |
+| **Bases de Datos** | PostgreSQL, MySQL, H2 Database |
+| **Cloud & IaC** | Google Cloud Platform (GCP), BigQuery, Cloud Composer / Airflow, Cloud Storage, Terraform |
+| **DevOps & CI/CD** | GitHub Actions, Docker, Linux (Ubuntu), Bash, Maven |
+| **Frontend** | Thymeleaf, JavaScript, HTML5, CSS3, Angular, TypeScript |
+
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** [Ana Belén Hernández](https://www.linkedin.com/in/anabelenhernandezlopez/)
+- **Email:** anahernandezfit@gmail.com
+- **Teléfono:** +34 618 475 782
+- **Ubicación:** Gijón, Asturias
