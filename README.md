@@ -17,11 +17,13 @@ No uso templates — resuelvo problemas reales en producción.
 
 ## 📊 Proyectos destacados
 
-**[Orden con MIMO - Backend](https://github.com/AnaBHernandez/orden-con-mimo-backend)** | Java 21 + Spring Boot 3 + Spring Data JPA
+**[Orden con MIMO - Backend](https://github.com/AnaBHernandez/orden-con-mimo-backend)** | Java 21 + Spring Boot 3 + Spring Data JPA  
+📖 *Consulta la [Wiki del Backend](https://github.com/AnaBHernandez/orden-con-mimo-backend/wiki) con la documentación técnica.*
 - Desarrollo del backend para la aplicación full-stack de organización personal y profesional.
 - API REST robusta, gestión de persistencia con JPA y base de datos H2/MySQL.
 
-**[Orden con MIMO - Frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend)** | Spring Boot + Thymeleaf + JavaScript + CORS
+**[Orden con MIMO - Frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend)** | Spring Boot + Thymeleaf + JavaScript + CORS  
+📖 *Consulta la [Wiki del Frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend/wiki) con la documentación técnica.*
 - Desarrollo de la interfaz web cliente conectada al backend mediante RestTemplate.
 - Gestión de vistas con Thymeleaf, comunicación HTTP optimizada y consumo de servicios REST.
 
