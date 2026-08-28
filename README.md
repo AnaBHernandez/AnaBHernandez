@@ -1,14 +1,15 @@
 # 👋 Hola, soy Ana Belén
 
-**Cloud & DevOps Engineer | Backend Developer (Java / Spring Boot) | CI/CD & Terraform**
+**Cloud & DevOps Engineer | Full-Stack & Backend Developer | CI/CD & Terraform**
 
-Diseño e implemento arquitecturas robustas, pipelines CI/CD desde cero en GitHub Actions y lógica backend escalable.  
+Diseño e implemento arquitecturas robustas, pipelines CI/CD desde cero en GitHub Actions y desarrollo aplicaciones full-stack escalables.  
 No uso templates — resuelvo problemas reales en producción.
 
 ## 🚀 Sobre mí
 
-- 💼 **Cloud & Backend Developer @ Cloud and Delivery** (GCP en producción y automatización)
+- 💼 **Cloud & Software Developer @ Cloud and Delivery** (GCP en producción y automatización)
 - ☕ **Backend:** Java 21, Spring Boot 3, Spring Security, JPA / Hibernate, APIs REST
+- 🌐 **Frontend & Web:** Thymeleaf, JavaScript, HTML5, CSS3, Vercel
 - 🔧 **Especialista en CI/CD:** Pipelines en GitHub Actions, debugging profundo y automatización
 - 🏗️ **Infrastructure as Code:** Terraform para GCP (Cloud Storage, Cloud Composer)
 - 🐧 **DevOps & Sistemas:** Linux, Docker, Bash, systemd
@@ -16,10 +17,13 @@ No uso templates — resuelvo problemas reales en producción.
 
 ## 📊 Proyectos destacados
 
-**[Orden con MIMO](https://github.com/AnaBHernandez/orden-con-mimo-backend)** | Java 21 + Spring Boot 3 + Spring Data JPA + Arquitectura Full-Stack
-- Desarrollo full-stack de aplicación de organización personal y profesional.
-- API REST robusta en Spring Boot 3, gestión de persistencia con JPA y base de datos H2/MySQL.
-- Comunicación HTTP optimizada, configuración de CORS y separación limpia de capas (Controller, Service, Repository).
+**[Orden con MIMO - Backend](https://github.com/AnaBHernandez/orden-con-mimo-backend)** | Java 21 + Spring Boot 3 + Spring Data JPA
+- Desarrollo del backend para la aplicación full-stack de organización personal y profesional.
+- API REST robusta, gestión de persistencia con JPA y base de datos H2/MySQL.
+
+**[Orden con MIMO - Frontend](https://github.com/AnaBHernandez/orden-con-mimo-frontend)** | Spring Boot + Thymeleaf + JavaScript + CORS
+- Desarrollo de la interfaz web cliente conectada al backend mediante RestTemplate.
+- Gestión de vistas con Thymeleaf, comunicación HTTP optimizada y consumo de servicios REST.
 
 **[trafico_urbano_etl](https://github.com/AnaBHernandez/trafico_urbano_etl)** | Apache Airflow + GCP + Python
 - Sistema ETL de análisis de tráfico urbano.
@@ -37,7 +41,7 @@ No uso templates — resuelvo problemas reales en producción.
 
 ## 💡 Qué aporto
 
-✅ Desarrollo backend sólido en Java y Spring Boot (APIs REST, seguridad y persistencia)  
+✅ Desarrollo full-stack (Java/Spring Boot en backend + frontend web integrado)  
 ✅ Pipelines CI/CD diseñadas desde cero y debugging avanzado en GitHub Actions  
 ✅ Infrastructure as Code con Terraform y despliegues en GCP  
 ✅ Gestión de equipos bajo presión (SCRUM, GitHub Projects)  
@@ -48,11 +52,11 @@ No uso templates — resuelvo problemas reales en producción.
 | Categoría | Tecnologías |
 |-----------|------------|
 | **Backend** | **Java 21 • Spring Boot 3 • Spring Security • JWT • JUnit 5 • Mockito • TDD** |
+| **Frontend** | Thymeleaf • JavaScript • TypeScript • HTML5 • CSS3 |
 | **CI/CD** | GitHub Actions • GitHub Projects • GitHub Workflows |
 | **Cloud** | GCP (BigQuery, Cloud Composer, Cloud Storage) |
 | **IaC** | Terraform |
 | **Contenedores** | Docker |
-| **Frontend** | Angular 21 • TypeScript • Thymeleaf • HTML5 • CSS3 |
 | **Bases de datos** | PostgreSQL • MySQL • H2 |
 | **DevOps** | Linux (bash, systemd) • Maven • Apache Airflow |
 
